@@ -1,4 +1,5 @@
-#SwiftUI
+# SwiftUI
+```bash
 //  LoginPage.swift
 //  Omveer`s App
 //
@@ -73,6 +74,7 @@ struct LoginPage: View {
         }
     }
 }
+```
 
 #Preview {
     LoginPage()
