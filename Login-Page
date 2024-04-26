@@ -1,11 +1,5 @@
 # SwiftUI
 ```bash
-//  LoginPage.swift
-//  Omveer`s App
-//
-//  Created by Omveer Panwar on 06/03/24.
-//
-
 import SwiftUI
 
 struct LoginPage: View {
