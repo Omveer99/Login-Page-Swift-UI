@@ -1,5 +1,3 @@
-# SwiftUI
-```bash
 import SwiftUI
 
 struct LoginPage: View {
@@ -73,4 +71,4 @@ struct LoginPage: View {
 #Preview {
     LoginPage()
 }
-```
+
